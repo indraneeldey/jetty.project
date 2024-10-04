@@ -89,7 +89,7 @@
     <weld.version>3.1.5.Final</weld.version>
     <wildfly.common.version>1.5.4.Final</wildfly.common.version>
     <wildfly.elytron.version>1.18.3.Final</wildfly.elytron.version>
-    <xmemcached.version>2.4.7</xmemcached.version>
+    <xmemcached.version>2.4.8</xmemcached.version>
 
     <!-- some maven plugins versions -->
     <asciidoctor.plugin.version>2.2.2</asciidoctor.plugin.version>
